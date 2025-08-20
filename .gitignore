@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+.firebase
+firebase.json
+dist/
+package-lock.json
