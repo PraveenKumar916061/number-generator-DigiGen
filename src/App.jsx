@@ -57,7 +57,7 @@ function App() {
       {/* <h1>DigiGen</h1> */}
       <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', marginBottom: '1rem' }}>
         <img src={digigenLogo} alt="DigiGen Logo" style={{ width: '48px', height: '48px' }} />
-        <h1 style={{ margin: 0, fontSize: '2.2rem', color: '#3498db' }}>DigiGen</h1>
+        <h1 style={{ margin: 0, fontSize: '4.5rem', color: '#3498db', fontWeight: '900', letterSpacing: '3px' }}>DigiGen</h1>
       </div>
       {/* <h2 style={{ textAlign: 'center', marginBottom: '1.5rem', color: '#333' }}>Number Generator (1-90)</h2> */}
       <div style={{ marginBottom: '1rem' }}>
