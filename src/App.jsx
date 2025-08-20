@@ -129,7 +129,7 @@ function App() {
           padding: '1rem',
           marginBottom: '2rem',
         }}>
-          <h3 style={{ textAlign: 'center', color: '#333', margin: '0 0 1rem 0' }}>History</h3>
+          {/* <h3 style={{ textAlign: 'center', color: '#333', margin: '0 0 1rem 0' }}>History</h3> */}
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: '8px', justifyContent: 'center' }}>
             {history.map((num) => (
               <span key={num} style={{ color: '#e74c3c', fontWeight: 'bold', fontSize: '1.1rem' }}>{num}</span>
