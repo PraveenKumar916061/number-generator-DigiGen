@@ -1,6 +1,5 @@
 import { useState } from 'react'
 import digigenLogo from './assets/digigen.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
 
 
